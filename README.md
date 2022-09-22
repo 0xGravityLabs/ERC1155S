@@ -2,7 +2,7 @@
 
 ## Introduction
 
-ERC-1155S is an extension protocol for Cosmo to realize soul-bound tokens based on ERC-1155. It has more general scalability and composability and serves as a foundation to support soul certification based on soul metadata and credentials, soul recovery based on Social Recovery, SBT authorization based on licenses, and the programmability and interoperability of SBT.
+ERC-1155S is an extension protocol for [Cosmo](https://cosmo.fm) to realize soul-bound tokens based on ERC-1155. It has more general scalability and composability and serves as a foundation to support soul certification based on soul metadata and credentials, soul recovery based on Social Recovery, SBT authorization based on licenses, and the programmability and interoperability of SBT.
 
 ## Design
 
